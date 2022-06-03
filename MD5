@@ -1,0 +1,10 @@
+0dcdece0c29c6bdecafddbe98a9dd982 *DESCRIPTION
+be56e77b04efdb1db346d89486898ea1 *NAMESPACE
+4db8551be7338cd6cf21a7cbd2c493a2 *NEWS.md
+d4edf745e620edd003bde577a3a6fd8c *R/QregBB.R
+848a901984467dc2a0677fbab4fea19b *build/partial.rdb
+ee2ed8d357fba1d229f43562bac20f22 *man/QregBB-package.Rd
+f8632455f46af940042d3e33bf8c4b49 *man/QregBB.Rd
+9f22e8c110a4a8b71095a2fef3af4ce1 *man/getNPPIblksizesQR.Rd
+0b42c6a8fa8d157c2443a15d14dc825b *src/QregBB.c
+dd2aa36732eb8882f773f0422b0e8bfa *src/init.c

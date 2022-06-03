@@ -1,0 +1,6 @@
+useDynLib(QregBB)
+export("QregBB","getNPPIblksizesQR")
+S3method(print,QregBB)
+import(quantreg)
+importFrom("stats", "bw.SJ", "cov", "dnorm", "nlm", "pnorm",
+               "quantile", "rnorm", "runif")
